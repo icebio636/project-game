@@ -1,1 +1,3 @@
 # project-game
+
+beginning to think about what the game may be...
