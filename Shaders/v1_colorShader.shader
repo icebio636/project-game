@@ -4,6 +4,7 @@
 	{
 		Pass
 		{
+			
 			CGPROGRAM
 			
 			#pragma vertex vert
